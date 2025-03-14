@@ -1,0 +1,7 @@
+{
+    "serial_port": "COM9",
+    "baudrate": 9600,
+    "timeout": 1,
+    "username": "admin",
+    "password": "password"
+}
