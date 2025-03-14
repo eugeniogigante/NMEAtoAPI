@@ -45,7 +45,7 @@ Perché Scegliere Questa Soluzione?
 •	Personalizzazione: Le API possono essere adattate alle esigenze specifiche del progetto.
 Vuoi Provare?
 Ho creato una demo completa di questa soluzione, con documentazione dettagliata e codice sorgente disponibile sul mio GitHub. Se sei interessato a testare questo nuovo approccio, visita il repository qui:
-👉 Link al GitHub
+👉 https://github.com/eugeniogigante/NMEAtoAPI/tree/f0993e5d2d66cb21c7710e4a6a7498cb009c7dd1
 Conclusione
 Il futuro delle integrazioni NMEA è nelle API REST. Questa nuova soluzione offre una combinazione vincente di semplicità, scalabilità e flessibilità, superando i limiti delle vecchie tecnologie. Se sei pronto a fare il salto verso l'integrazione moderna, non esitare a contattarmi o a provare la demo!
 #NMEA #API #IoT #Innovazione #Tecnologia #LinkedInTech
@@ -98,6 +98,7 @@ Why Choose This Solution?
 •	Customization: APIs can be tailored to the specific needs of the project.
 Want to Try It?
 I’ve created a complete demo of this solution, with detailed documentation and source code available on my GitHub. If you’re interested in testing this new approach, visit the repository here:
+https://github.com/eugeniogigante/NMEAtoAPI/tree/f0993e5d2d66cb21c7710e4a6a7498cb009c7dd1
 
 Conclusion
 The future of NMEA integration lies in REST APIs. This new solution offers a winning combination of simplicity, scalability, and flexibility, overcoming the limitations of older technologies. If you’re ready to make the leap to modern integration, don’t hesitate to reach out or try the demo!
